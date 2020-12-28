@@ -4,7 +4,7 @@
 
 ## API 정리
 ### 직방
-직방 API 는 따로 documentation 이 없습니다.. ㅠㅠㅠ 일단 web inpector 로 알아본 사항만 나열 해 볼게요.
+직방 API 는 따로 documentation 이 없습니다.. ㅠㅠㅠ 일단 web inspector 로 알아본 사항만 나열 해 볼게요.
 1. 기본 API URL
     - [기본URL](https://apis.zigbang.com/)
     > 클릭하면 아마 json 오류 떠 있을 거 같긴 합니다..
